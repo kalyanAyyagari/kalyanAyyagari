@@ -6,7 +6,7 @@
   - CI/CD & Version Control: Comfortable with Git for version control, branch management, and pull requests. Skilled in setting up CI/CD pipelines with Jenkins and ensuring code quality with SonarQube.
   - Collaborative Development: Experienced in agile methodologies, including scrums and sprint planning, ensuring seamless teamwork and project delivery.
 
-- 🌱 I’m currently, I'm enhancing my skills in Docker and Kubernetes to further my expertise in containerization and orchestration.
+- 🌱 I’m currently enhancing my skills in Docker and Kubernetes to further my expertise in containerization and orchestration.
 - 💞️ I’m looking to collaborate on any interesting Angular Projects 
 - 📫 reach me at kalyana200019@gmail.com
 - ⚡ Fun fact: My email was a ‘creative’ suggestion from Gmail back in school, and somehow it’s now my ‘professional’ identity.
