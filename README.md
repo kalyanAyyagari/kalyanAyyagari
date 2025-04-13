@@ -3,7 +3,7 @@
 
   - Front-End Focus: Extensive experience with Angular versions 2 through 19, creating interactive and responsive user interfaces. Proficient with libraries like PrimeNG and CanvasJS for dynamic tables, multi-select dropdowns, and data visualizations.
   - Back-End Skills: Back-End Skills: Strong command of Spring Boot for building and optimizing RESTful APIs and microservices. Skilled in database integration using Hibernate and PostgreSQL, ensuring high-performance data handling. Also proficient in Node.js and RxJS for asynchronous programming. I also have growing experience with Node.js, Express.js, and NestJS, allowing me to explore new server-side architectures.
-  - CI/CD & Version Control: Comfortable with Git for version control, branch management, and pull requests. Skilled in setting up CI/CD pipelines with Jenkins and ensuring code quality with SonarQube.
+  - CI/CD & Version Control: Comfortable with Git for version control, branch management, and pull requests. Skilled in utilizing CI/CD pipelines with Jenkins and ensuring code quality with SonarQube.
   - Collaborative Development: Experienced in agile methodologies, including scrums and sprint planning, ensuring seamless teamwork and project delivery.
 
 - 🌱 I’m currently enhancing my skills in Docker and Kubernetes to further my expertise in containerization and orchestration.
